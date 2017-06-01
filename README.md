@@ -19,8 +19,8 @@
 
 ## GIT e Github
 
-### [Vídeos Rodrigo Branas](https://youtu.be/C18qzn7j4SM)
-    https://youtu.be/C18qzn7j4SM
+### [Vídeos Rodrigo Branas](https://www.youtube.com/watch?v=C18qzn7j4SM&list=PLqFZUD_ys9zf7C4sFV2QR0VYKuXlcmzPf)
+    https://www.youtube.com/watch?v=C18qzn7j4SM&list=PLqFZUD_ys9zf7C4sFV2QR0VYKuXlcmzPf
 
 ### [Git e Github para Iniciantes](http://willianjusten.teachable.com/p/git-e-github-para-iniciantes)
     http://willianjusten.teachable.com/p/git-e-github-para-iniciantes
